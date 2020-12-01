@@ -20,7 +20,7 @@ func main() {
 	fmt.Println(s1.name)
 	fmt.Println(s1.rate)
 	fmt.Println(s1.active)
-	/*
+	/*22
 		var subscriber struct {
 			name   string
 			rate   int
